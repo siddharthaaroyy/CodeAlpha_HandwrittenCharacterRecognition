@@ -28,8 +28,8 @@ Build a model to **recognize handwritten digits (0-9)** using the MNIST dataset 
 
 ## 📂 Files Included
 
-- `Handwritten_Character_Recognition.ipynb` - Jupyter Notebook with code and results
-- 
+`Handwritten_Character_Recognition.ipynb` - Jupyter Notebook with code and results
+  
 
 > **Internship:** CodeAlpha Machine Learning Internship  
 > **Task:** Handwritten Character Recognition  
